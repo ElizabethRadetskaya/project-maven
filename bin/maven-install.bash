@@ -1,1 +1,1 @@
-mvn install:install-file -Dfile=/Users/elizabethradetskaya/IdeaProjects/project-maven/bin/maven-install.bash -DgroupId=com.javarush -DartifactId=desktop-game-engine -Dversion=1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=/Users/elizabethradetskaya/IdeaProjects/project-maven/lib/desktop-game-engine.jar -DgroupId=com.javarush -DartifactId=desktop-game-engine -Dversion=1.0 -Dpackaging=jar
